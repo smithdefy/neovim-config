@@ -48,4 +48,3 @@ require('packer').startup(function(use)
 	use 'L3MON4D3/LuaSnip'
 end)
 
--- vim.lsp.enable("lua_ls")
